@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Zoya28/Zoya28/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, Meet Zoya Qureshi</h1>
 <h3 align="center">A passionate and enthusiastic Front-end-developer as well as a third-year student majoring in AI and Data Science.</h3>
 
