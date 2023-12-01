@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="100%" height="50%" src="https://i.pinimg.com/originals/ec/64/28/ec642808d0887df9b4f0f9582df9f193.gif">
+<img align="right" alt="coding" width="100%" src="https://openseauserdata.com/files/44bec1e14bc12a035835222f602b46e5.gif">
 <h1 align="center">Hi 👋, Meet Zoya Qureshi</h1>
 <h3 align="center">A passionate and enthusiastic front-end developer as well as a third-year student majoring in AI and Data Science.</h3>
 
