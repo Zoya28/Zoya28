@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="100%" src="https://openseauserdata.com/files/44bec1e14bc12a035835222f602b46e5.gif">
+<img align="right" alt="coding" width="100%" src="https://app.nba.dapperlabs.com/static/img/gating-loader.gif">
 <h1 align="center">Hi 👋, Meet Zoya Qureshi</h1>
 <h3 align="center">A passionate and enthusiastic front-end developer as well as a third-year student majoring in AI and Data Science.</h3>
 
