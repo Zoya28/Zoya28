@@ -1,16 +1,16 @@
 <img align="right" alt="coding" width="100%" src="https://app.nba.dapperlabs.com/static/img/gating-loader.gif">
 <h1 align="center">Hi there👋,<br> I'm <br>Zoya Qureshi</h1>
-<h3 align="center">A passionate and enthusiastic front-end developer as well as a third-year student majoring in AI and Data Science.</h3>
+<h3 align="center">A passionate AI enthusiast and final-year student majoring in AI and Data Science.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoya28&label=Profile%20views&color=0e75b6&style=flat" alt="zoya28" /> </p>
 
-- 🔭 Currently, I'm diving deep into the realms of **AI and Data Science.**
+- 🔭 Currently, I'm diving deep into **Artificial Intelligence, Machine Learning, and Data Science.**
 
-- 🌱 I’m currently learning **python, Machine learning and web-development.**
+- 🌱 I’m currently learning **python, Machine-learning, Deep Learning, NLP, and Data Analytics.**
 
-- 👯 I'm currently enjoying the challenges and excitement of **my third year.**
+- 👯 I'm enjoying the challenges and excitement of **my final year.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zoya28](https://github.com/Zoya28)
 
@@ -20,14 +20,14 @@
 
 <h3 align="left">💡 What Drives Me </h3>
 <p align="left">
-I am fueled by a curiosity to unravel complex problems and create innovative solutions. My academic journey is not just about earning a degree but also about contributing to the ever-evolving landscape of technology.
+  I am passionate about leveraging AI to solve real-world challenges. My academic journey is not just about earning a degree but also about contributing to the ever-evolving landscape of technology. My goal is to develop intelligent solutions that drive innovation in data science and artificial intelligence.
 </p>
 
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left"> <ul>
-  <li> Proficient in Python, I wield its power for data analysis, machine learning, and front-end development.</li>
+  <li> Proficient in **Python, SQL, HTML, CSS..**</li>
   <li> From statistical analysis to machine learning models, I love crunching numbers and extracting meaningful insights.</li>
-  <li>Exploring the realms of artificial intelligence, I find joy in creating intelligent systems that can learn and adapt.</li>
+  <li>Exploring the realms of artificial intelligence, I find joy in learning about intelligent systems that can learn and adapt.</li>
 </ul> </p>
 
 <h3 align="left">🌐 Front-End Development</h3>
