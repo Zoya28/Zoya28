@@ -25,7 +25,7 @@
 
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left"> <ul>
-  <li> Proficient in **Python, SQL, HTML, CSS..**</li>
+  <li> Proficient in **Python,data preprocessing, data analysis, machine learning,deep learning, SQL, HTML, CSS...**</li>
   <li> From statistical analysis to machine learning models, I love crunching numbers and extracting meaningful insights.</li>
   <li>Exploring the realms of artificial intelligence, I find joy in learning about intelligent systems that can learn and adapt.</li>
 </ul> </p>
