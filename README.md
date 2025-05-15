@@ -8,7 +8,7 @@
 
 - 🔭 Currently, I'm diving deep into **Artificial Intelligence, Machine Learning, and Data Science.**
 
-- 🌱 I’m currently learning **python, Machine-learning, Deep Learning, NLP, and Data Analytics.**
+- 🌱 I’m currently learning **python, Machine-learning, Deep Learning, NLP, and Data Analytics and GenAI.**
 
 - 👯 I'm enjoying the challenges and excitement of **my final year.**
 
