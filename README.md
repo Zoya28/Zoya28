@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="100%" src="https://app.nba.dapperlabs.com/static/img/gating-loader.gif">
 <h1 align="center">Hi there👋,<br> I'm <br>Zoya Qureshi</h1>
-<h3 align="center">A passionate AI enthusiast and final-year student majoring in AI and Data Science.</h3>
+<h3 align="center">A passionate AI enthusiast and majored in AI and Data Science.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
