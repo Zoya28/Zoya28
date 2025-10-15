@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **python, Machine-learning, Deep Learning, NLP, and Data Analytics and GenAI.**
 
-- 👯 I'm enjoying the challenges and excitement of **my final year.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Zoya28](https://github.com/Zoya28)
 
 - 📫 How to reach me **https://www.linkedin.com/in/zoya28/**
