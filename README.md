@@ -1,51 +1,88 @@
 <img align="right" alt="coding" width="100%" src="https://app.nba.dapperlabs.com/static/img/gating-loader.gif">
-<h1 align="center">Hi there👋,<br> I'm <br>Zoya Qureshi</h1>
-<h3 align="center">A passionate AI enthusiast and an AI developer.</h3>
 
+<h1 align="center">Hi there 👋,<br>I'm Zoya Qureshi</h1>
+
+<h3 align="center">
+Backend-Focused AI Engineer • GenAI Builder • Full Stack Product Developer
+</h3>
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zoya28&label=Profile%20views&color=0e75b6&style=flat" alt="zoya28" />
+</p>
+
+---
+
+# 🚀 About Me
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoya28&label=Profile%20views&color=0e75b6&style=flat" alt="zoya28" /> </p>
+I'm a backend-focused AI engineer passionate about building production-grade AI systems, real-time applications, and scalable backend architectures.
 
-- 🔭 Currently **freelancing and building AI-powered products** for real-world use cases.
-- 🌱 Deepening my expertise in **LangChain, LLM frameworks, Generative AI, and NLP**.
-- 👩‍💻 All of my projects are available at [github.com/Zoya28](https://github.com/Zoya28)
-- 📫 Reach me at [linkedin.com/in/zoya28](https://www.linkedin.com/in/zoya28/)
-- ⚡ Fun fact: **I'm very friendly — let's chat!**
- 
----
- 
-<h3 align="left">💡 What Drives Me</h3>
- 
-<p align="left">
-  I'm passionate about building intelligent products that solve real problems. My journey goes beyond learning AI — I'm actively applying it as a freelancer, crafting end-to-end solutions that blend machine learning, language models, and thoughtful design. My goal is to make AI accessible, practical, and impactful.
-</p>
- 
----
- 
-<h3 align="left">🛠️ Tech Stack</h3>
- 
-<p align="left">
-  <b>AI / ML:</b> Python · Machine Learning · Deep Learning · NLP · Generative AI · LangChain · LLM Frameworks<br>
-  <b>Data:</b> Data Analysis · Data Preprocessing · SQL · Statistical Modeling<br>
-  <b>Web:</b> HTML · CSS · Front-End Development (Python-based UIs)
-</p>
- 
----
- 
-<h3 align="left">🤖 What I'm Building</h3>
- 
-<p align="left">
-  As a freelancer, I develop AI-powered applications and data-driven tools for clients. From building LLM pipelines with LangChain to designing full ML workflows, I focus on turning ideas into working products — fast and with care.
-</p>
- 
----
- 
-<h3 align="left">🤝 Let's Connect!</h3>
- 
-<p align="left">
-  I'm always open to collaborating with fellow builders, AI enthusiasts, and anyone passionate about technology. Feel free to reach out on <a href="https://www.linkedin.com/in/zoya28/" target="_blank">LinkedIn</a> — I'd love to connect!
-</p>
- 
+I enjoy building fast, practical, and intelligent products using LLMs, FastAPI, RAG pipelines, async systems, and modern AI workflows. Most of my work revolves around turning AI ideas into fully working applications with real users.
+
+### Currently Building
+- AI-powered SaaS products
+- Real-time voice & conversational systems
+- RAG and retrieval pipelines
+- Backend APIs & async services
+- Workflow automation tools
+
 ---
 
+# 🛠️ Tech Stack
 
+## Backend & APIs
+Python • FastAPI • REST APIs • Async Processing • Redis • SQL • Supabase • InfluxDB • DynamoDB • Docker
+
+## AI / GenAI
+LangChain • LangGraph • RAG • FAISS • HuggingFace • Prompt Engineering • Quantization • LLaMA • Mistral • Phi-3
+
+## ML / NLP
+PyTorch • TensorFlow • Scikit-learn • NER • Intent Classification • ASR • Faster-Whisper
+
+## Frontend & Tools
+Next.js • Streamlit • Git • GitHub • AWS SageMaker • n8n
+
+---
+
+# ⚡ Featured Projects
+
+## 🎯 FluentScroll
+AI-powered English speaking practice SaaS platform built with FastAPI, Next.js, JWT authentication, analytics tracking, and real-time speaking workflows.
+
+🔗 https://fluentscrolls.in
+
+---
+
+## 🧠 Real-Time AI Health Assistant
+Voice-based AI assistant with real-time STT, intent routing, LangGraph memory workflows, and InfluxDB-powered health analytics.
+
+---
+
+## 📚 RAG Knowledge Chatbot
+Production-style retrieval system using FAISS, LangChain, and LLMs with hallucination control and intent-routed retrieval pipelines.
+
+---
+
+# 💡 What I Enjoy Building
+
+- AI products that real users can interact with
+- Scalable backend systems
+- Real-time applications
+- Retrieval & LLM pipelines
+- Workflow automation systems
+- AI-assisted developer tools
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/zoya28
+- GitHub: https://github.com/Zoya28
+- Portfolio: [https:/zoya.qureshi](https://zoya-qureshi.vercel.app/)
+
+---
+
+# ⚡ Fun Fact
+
+I genuinely enjoy building products from scratch — from backend architecture and APIs to AI integrations and deployment.
